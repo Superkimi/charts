@@ -39,12 +39,6 @@
 			总数量:400
 		</text>
 	</svg>
-	<!-- <svg width="800" height="600">
-		<path d = "M40,20 A30,30 0 0,0 70,70" style="stroke: #cccc00;stroke-width:2; fill:none;" /> 
-    <path d = "M40,20 A30,30 0 1,0 70,70" style="stroke: #ff0000; stroke-width:2; fill:none;"/> 
-    <path d = "M40,20 A30,30 0 1,1 70,70" style = "stroke: #00ff00; stroke-width:2; fill:none;"/> 
-    <path d = "M40,20 A30,30 0 0,1 70,70" style = "stroke: #0000ff; stroke-width:2; fill:none;"/>
-	</svg> -->
 </template>
 
 <script setup>
