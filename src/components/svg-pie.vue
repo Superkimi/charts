@@ -63,11 +63,11 @@ const state = reactive({
 			name: '优选',
 		},
 		{
-			value: 49.4,
+			value: 69.4,
 			name: '买菜',
 		},
 		{
-			value: 28.77,
+			value: 8.77,
 			name: '打车',
 		},
 	],
